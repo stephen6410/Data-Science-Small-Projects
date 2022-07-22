@@ -3,7 +3,7 @@
 These projects were created either on my own or with guided help from CodeCademy, Kaggle, and other resources. I plan to use SQL, Tableau, and Python with Pandas, MatPlotLib, and Seaborn.
 
 ---
-**CodeCademy "Data Scientist Career Path" Mini Projects**
+**CodeCademy "Data Scientist Career Path" Minor Projects**
     _hurricane analysis_: ...
     _jeopardy_: ...
     _frida_: ...
@@ -12,7 +12,7 @@ These projects were created either on my own or with guided help from CodeCademy
     
 ---
 **CodeCademy "Data Scientist Career Path" Major Projects**
-    _Biodiversity of National Parks_: ...
+    _Biodiversity in National Parks_: ...
     
 ---
 **Personal Projects**
