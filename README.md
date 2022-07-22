@@ -1,18 +1,14 @@
-# Data-Science-Portfolio
+# Data-Science-Small-Projects
 
-These projects were created either on my own or with guided help from CodeCademy, Kaggle, and other resources. I plan to use SQL, Tableau, and Python with Pandas, MatPlotLib, and Seaborn.
+These projects were created either on my own or with guided help from CodeCademy, Kaggle, and other resources.
 
 ---
-**CodeCademy "Data Scientist Career Path" Minor Projects**
+**CodeCademy "Data Scientist Career Path"**
     _hurricane analysis_: ...
     _jeopardy_: ...
     _frida_: ...
     _coded correspondence_: ...
     _reggie linear regression_: ...
-    
----
-**CodeCademy "Data Scientist Career Path" Major Projects**
-    _Biodiversity in National Parks_: ...
     
 ---
 **Personal Projects**
